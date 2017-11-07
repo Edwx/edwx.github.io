@@ -1,4 +1,12 @@
 theme: jekyll-theme-cayman
+
 title: Edwx Blog
-subtitle: Blog de Edwx
+email: segunfamisa@gmail.com
+#subtitle: Blog de Edwx
+description: > # this means to ignore newlines until "baseurl:"
+  Hey, I'm an android developer, I love to create :)
+# url: http://127.0.0.1:4000
+# 
+baseurl: ''
 url: https://edwx.github.io
+enforce_ssl: edwx.github.io
